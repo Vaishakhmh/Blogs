@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.Container{
+  margin: 64px auto 0 auto;
+  max-width: 1200px;
+  padding: 20px;
+}
+.navContainer{
+  margin: 0 0 0 8px;
+}
+
+.ps{
+  border: 1cm;
+}

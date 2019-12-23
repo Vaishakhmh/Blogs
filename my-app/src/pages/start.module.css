@@ -1,0 +1,27 @@
+
+.Background{
+    background-image: url('./dustin-lee-jLwVAUtLOAQ-unsplash.jpg');
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+}
+
+.divCent{
+    margin-top: 10%;
+    margin-left: 40%;
+    padding:10px;
+}
+.Head{
+    font-family: 'Lobster', cursive;
+    color:#fe346e;
+    font-size: 5em;
+    text-align: center;
+}
+
+.text{
+    text-align: center;
+    font-size: 3rem;
+    font-family: 'Lilita One', cursive;
+    color:#fe346e
+}
